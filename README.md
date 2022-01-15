@@ -5,7 +5,7 @@ Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusha-peddoju&label=Profile%20views&color=0e75b6&style=flat" alt="anusha-peddoju" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anusha-peddoju" alt="anusha-peddoju" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/anusha-peddoju/anusha-peddoju.github.io](https://github.com/anusha-peddoju/anusha-peddoju.github.io)
 
